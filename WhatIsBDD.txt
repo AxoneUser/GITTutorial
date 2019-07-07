@@ -1,0 +1,32 @@
+What is BDD
+- Bridge between Business & Tech languages
+- Think in tests --> thinking in behaviours
+- Cucumber.io
+- Collobration between BA, QA, Dev --> WholeTeam approach
+- TDD -- Test driven devl (First write the tests, exec the tests, Implement code) --> tests are written in tech 
+- BDD (Behaviour driven tests, exec the tests, implement code)
+
+BDD written in English
+
+Navigate to "http://seleniumpractice.axone-tech.uk/index.php"
+Click on Sign-In link
+Enter username / pass
+Click on Sign-in button
+validate login
+
+Fitnesse/Cucumber/JBehave (Bridge between Business & Tech languages)
+- Testing framework which supports the BDD
+- Cucumber is written in Ruby, Java API's for them
+
+Gherkin language
+Given When Then
+
+BRDSL --> Business Readable DSL (Without the implementation details describing appln)
+--> Gradle (DSL)
+
+
+Installing Cucumber Eclipse plugin:
+https://cucumber.io/cucumber-eclipse/
+
+
+Agenda:
